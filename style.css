@@ -2428,3 +2428,15 @@ footer.entry-meta {
 		color: #333;
 	}
 }
+
+
+/*****/
+
+#intro {
+	margin-top: 40px;
+}
+
+a[href^="tel"] {
+	font-size: larger;
+	padding: 0 0 1ex 0;
+}
